@@ -106,9 +106,3 @@ Filters in the dashboard
 ## Future Improvements
 - I will merge the front-end with the return data. 
 
-## Contact Information
-For questions or feedback, contact:
-- Name: Ritesh
-- Email: riteshkashyap9999@gmail.com
-- GitHub: github.com/Ritesh1919
-
